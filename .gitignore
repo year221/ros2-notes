@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignore everything in ros2_ws except src
+ros2_ws/*
+!ros2_ws/src
