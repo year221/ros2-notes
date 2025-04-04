@@ -177,3 +177,5 @@ cython_debug/
 # Ignore everything in ros2_ws except src
 ros2_ws/*
 !ros2_ws/src
+ros2_ws/src/py_pubsub/resource
+ros2_ws/src/py_pubsub/test
